@@ -1,0 +1,22 @@
+// Nav
+
+nav 
+  @include absolute(0,0)
+
+  display: block
+  height: $nav-height
+  width: 100%
+  text-align: left
+
+  background: $color
+
+  a 
+    font-weight: normal;
+    color: $white;
+    padding: $padding 0 $padding $padding
+    display: inline-block
+    height: $nav-link-height
+
+    &.router-link-exact-active 
+      color: $white;
+    
