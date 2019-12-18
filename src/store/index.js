@@ -12,6 +12,11 @@ export default new Vuex.Store({
       {id: 1, text:'then you should wait for several days for call from them.', done:false}
     ]
   },
+  methods:{
+    signin:function name() {
+      this.state.loginState = true;
+    }
+  },
   mutations: {
   },
   actions: {
