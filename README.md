@@ -1,4 +1,5 @@
 # kimia
+hello kimia.
 
 ## Project setup
 ```
