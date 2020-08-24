@@ -6,6 +6,7 @@
 
 insert some description about this repository insert some description about this repositoryinsert some description about this repositoryinsert some description about this repositoryinsert some description about this repository.
 
+
 > the first subtitle
 
 again some description here again some description here again some description here again some description here again some description here again some description .
@@ -21,10 +22,7 @@ again some description here again some description here again some description h
 again some description here again some description here again some description here again some description here again some description here again some description here again some description.
 
 
-now! i want to add some Badges :
 
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) 
-[![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
 
 
 ## Example for some Javascript code
@@ -41,7 +39,7 @@ let generateProject = project => {
 
 ## Project setup
 
-you can tetuo this project witdh run this command :
+you can run this project witdh run this command :
 ```
 npm install
 ```
@@ -61,5 +59,12 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
+
+now! i want to add some Badges :
+
+[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) 
+[![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
+
+
+## Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
