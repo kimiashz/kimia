@@ -30,6 +30,19 @@ now! i want to add links :
 npm install
 ```
 
+## Example for some code (Optional)
+
+```javascript
+// code away!
+
+let generateProject = project => {
+  let code = [];
+  for (let js = 0; js < project.length; js++) {
+    code.push(js);
+  }
+};
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
