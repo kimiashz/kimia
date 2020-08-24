@@ -8,7 +8,7 @@ insert some description about this repository insert some description about this
 
 > and now i wanna add subtitles .
 
-again some description here again some description here again some description here again some description here again some description here again some description here again some description here again some description here .
+again some description here again some description here again some description here again some description here again some description here again some description .
 
 **I have a list here**
 
@@ -18,10 +18,11 @@ again some description here again some description here again some description h
 
 > and subtitle2 .
 
-again some description here again some description here again some description here again some description here again some description here again some description here again some description here again some description here .
+again some description here again some description here again some description here again some description here again some description here again some description here again some description.
 
 
 now! i want to add links :
+
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) 
 [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
 
