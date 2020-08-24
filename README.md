@@ -1,3 +1,5 @@
+[![kimia](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastai/fastbook/master)
+
 # kimia
 
 kimia project.
