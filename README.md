@@ -1,4 +1,4 @@
-[![kimia](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastai/fastbook/master)
+[![kimia](https://avatars2.githubusercontent.com/u/18642584?s=460&u=dd5f22e6b246dc8f360b0ab1567d371b335eb2de&v=4)](https://github.com/kimiashz)
 
 # kimia
 
